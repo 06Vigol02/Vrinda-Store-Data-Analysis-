@@ -1,0 +1,14 @@
+Objective of the project:-
+
+Vrinda store wants to create an annual sales report for 2022. So that, they can understand their customers and grow more sales.
+
+Questions solved:-
+Compare the sales and order using single chart?
+Which month got highest sales and orders?
+Who purchased men or women in the year?
+What are the different order status in the following year?
+List top 5 states contributing to the sales? etc.
+
+I had basically used google sheets to extract, clean , manipulate data to get meaningful insights. In the process I learnt many formulas/implementation of pivot table, charts, slicers etc. 
+
+
